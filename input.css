@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hamburger {
+  cursor: pointer;
+  transition: all 0.25s;
+}
